@@ -1,4 +1,4 @@
-# Building a web app in JavaScript
+<div align="center"># Building a web app in JavaScript </div>
 
 In this project, you will finalize the previous project 0x0B. Implement a design with bootstrap and make some parts dynamic with Javascript (JQuery exactly).
 
